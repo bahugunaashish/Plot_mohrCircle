@@ -18,4 +18,4 @@ Interactive Mohr-Coulomb failure envelope analyser for consolidated-undrained tr
 - matplotlib
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/bahugunaashish/Plot_mohrCircle/main/screenshot.png)
