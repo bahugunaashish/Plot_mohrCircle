@@ -588,9 +588,9 @@ with right:
     st.pyplot(fig, use_container_width=True)
     plt.close(fig)
 
-st.caption(
-    "Streamlit version of the original Mohr-Coulomb Analyser. "
-    "Calculations retain the original least-squares envelope method."
+#st.caption(
+ #   "Streamlit version of the original Mohr-Coulomb Analyser. "
+ #   "Calculations retain the original least-squares envelope method."
 )
 
 
