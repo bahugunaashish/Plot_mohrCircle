@@ -591,6 +591,6 @@ with right:
 #st.caption(
  #   "Streamlit version of the original Mohr-Coulomb Analyser. "
  #   "Calculations retain the original least-squares envelope method."
-)
+#)
 
 
