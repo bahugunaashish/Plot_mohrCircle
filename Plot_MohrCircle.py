@@ -358,7 +358,7 @@ with left:
 # ---------------------------- Plot ---------------------------
 
 with right:
-    st.subheader("Mohr-Coulomb Failure Envelope — CU Triaxial Tests")
+    st.subheader("Mohr-Coulomb Failure Envelope")
 
     fig, ax = plt.subplots(figsize=(10, 7))
     fig.patch.set_facecolor(BG)
